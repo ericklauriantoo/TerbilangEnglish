@@ -1,5 +1,5 @@
 kata_satuan = ["", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
-kata_belasan = ["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eightteen", "nineteen"]
+kata_belasan = ["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
 kata_puluhan = ["", "", "twenty", "thirty", "fourty", "fifty" , "sixty" , "seventy", "eighty", "ninety",]
 
 def terbilang(n):
