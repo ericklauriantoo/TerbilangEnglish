@@ -33,8 +33,8 @@ import os
 while True:
     os.system('cls')
     try:
-        n = int(input('angka ? '))
+        n = int(input('Input Your Number ? '))
         print(f'{n:,} = {terbilang(n)}')
     except:
-        print('data input anda tidak benar ...')
+        print('YOUR DATA IS TIDAK BENARRRRR!!!! ...')
     os.system('pause')            
